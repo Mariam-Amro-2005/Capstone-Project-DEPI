@@ -3,3 +3,10 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/.idea/
+.idea/Capstone Project.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles
+
